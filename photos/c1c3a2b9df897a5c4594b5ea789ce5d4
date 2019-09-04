@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Runtastic: Life is short - live long, http://www.runtastic.com" xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+                                http://www.topografix.com/GPX/1/1/gpx.xsd
+                                http://www.garmin.com/xmlschemas/GpxExtensions/v3
+                                http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd
+                                http://www.garmin.com/xmlschemas/TrackPointExtension/v1
+                                http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <copyright author="www.runtastic.com">
+      <year>2019</year>
+      <license>http://www.runtastic.com</license>
+    </copyright>
+    <link href="http://www.runtastic.com">
+      <text>runtastic</text>
+    </link>
+    <time>2016-08-12T19:17:44.000Z</time>
+  </metadata>
+  <trk>
+    <link href="http://www.runtastic.com/sport-sessions/1349077510">
+      <text>Пройдите по ссылке для просмотра этой деятельности на runtastic.com</text>
+    </link>
+    <trkseg>
+      <trkpt lon="30.1366367340087891" lat="61.0372543334960938">
+        <ele>11.0</ele>
+        <time>2016-08-12T19:17:45.000Z</time>
+      </trkpt>
+      <trkpt lon="30.1350746154785156" lat="61.0370178222656250">
+        <ele>39.0</ele>
+        <time>2016-08-12T19:18:10.000Z</time>
+      </trkpt>
+      <trkpt lon="30.1349601745605469" lat="61.0368995666503906">
+        <ele>37.0</ele>
+        <time>2016-08-12T19:18:14.000Z</time>
+      </trkpt>
+      <trkpt lon="30.1351146697998047" lat="61.0365753173828125">
+        <ele>34.0</ele>
+        <time>2016-08-12T19:18:28.000Z</time>
+      </trkpt>
+      <trkpt lon="30.1352615356445312" lat="61.0365142822265625">
+        <ele>34.0</ele>
+        <time>2016-08-12T19:18:32.000Z</time>
+      </trkpt>
+      <trkpt lon="30.1358375549316406" lat="61.0364761352539062">
+        <ele>36.0</ele>
+        <time>2016-08-12T19:18:44.000Z</time>
+      </trkpt>
+      <trkpt lon="30.1362762451171875" lat="61.0364952087402344">
+        <ele>34.0</ele>
+        <time>2016-08-12T19:18:52.000Z</time>
+      </trkpt>
+      <trkpt lon="30.1365776062011719" lat="61.0365028381347656">
+        <ele>35.0</ele>
+        <time>2016-08-12T19:18:58.000Z</time>
+      </trkpt>
+      <trkpt lon="30.1367855072021484" lat="61.0365371704101562">
+        <ele>35.0</ele>
+        <time>2016-08-12T19:19:02.000Z</time>
+      </trkpt>
+      <trkpt lon="30.1370124816894531" lat="61.0365486145019531">
+        <ele>35.0</ele>
+        <time>2016-08-12T19:19:06.000Z</time>
+      </trkpt>
+      <trkpt lon="30.1373386383056641" lat="61.0365715026855469">
+        <ele>34.0</ele>
+        <time>2016-08-12T19:19:12.000Z</time>
+      </trkpt>
+      <trkpt lon="30.1377143859863281" lat="61.0366706848144531">
+        <ele>35.0</ele>
+        <time>2016-08-12T19:19:20.000Z</time>
+      </trkpt>
+      <trkpt lon="30.1377143859863281" lat="61.0366706848144531">
+        <ele>35.0</ele>
+        <time>2016-08-12T19:19:26.000Z</time>
+      </trkpt>
+      <trkpt lon="30.1377868652343750" lat="61.0367660522460938">
+        <ele>36.0</ele>
+        <time>2016-08-12T19:19:28.000Z</time>
+      </trkpt>
+      <trkpt lon="30.1378211975097656" lat="61.0368423461914062">
+        <ele>37.0</ele>
+        <time>2016-08-12T19:19:30.000Z</time>
+      </trkpt>
+      <trkpt lon="30.1378307342529297" lat="61.0369071960449219">
+        <ele>37.0</ele>
+        <time>2016-08-12T19:19:32.000Z</time>
+      </trkpt>
+      <trkpt lon="30.1378231048583984" lat="61.0369606018066406">
+        <ele>38.0</ele>
+        <time>2016-08-12T19:19:34.000Z</time>
+      </trkpt>
+      <trkpt lon="30.1375198364257812" lat="61.0370979309082031">
+        <ele>38.0</ele>
+        <time>2016-08-12T19:19:50.000Z</time>
+      </trkpt>
+      <trkpt lon="30.1373176574707031" lat="61.0371627807617188">
+        <ele>38.0</ele>
+        <time>2016-08-12T19:19:52.000Z</time>
+      </trkpt>
+      <trkpt lon="30.1371612548828125" lat="61.0371971130371094">
+        <ele>38.0</ele>
+        <time>2016-08-12T19:19:54.000Z</time>
+      </trkpt>
+      <trkpt lon="30.1370296478271484" lat="61.0372123718261719">
+        <ele>38.0</ele>
+        <time>2016-08-12T19:19:56.000Z</time>
+      </trkpt>
+      <trkpt lon="30.1369190216064453" lat="61.0372200012207031">
+        <ele>37.0</ele>
+        <time>2016-08-12T19:19:58.000Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

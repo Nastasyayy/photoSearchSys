@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Runtastic: Life is short - live long, http://www.runtastic.com" xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+                                http://www.topografix.com/GPX/1/1/gpx.xsd
+                                http://www.garmin.com/xmlschemas/GpxExtensions/v3
+                                http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd
+                                http://www.garmin.com/xmlschemas/TrackPointExtension/v1
+                                http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <copyright author="www.runtastic.com">
+      <year>2019</year>
+      <license>http://www.runtastic.com</license>
+    </copyright>
+    <link href="http://www.runtastic.com">
+      <text>runtastic</text>
+    </link>
+    <time>2019-05-22T20:20:30.000Z</time>
+  </metadata>
+  <trk>
+    <link href="http://www.runtastic.com/sport-sessions/1349077500">
+      <text>Пройдите по ссылке для просмотра этой деятельности на runtastic.com</text>
+    </link>
+    <trkseg>
+      <trkpt lon="30.343736" lat="59.991499">
+        <ele>11.0</ele>
+        <time>2019-05-22T20:20:30.000Z</time>
+      </trkpt>
+      <trkpt lon="30.343885" lat="59.991561">
+        <ele>39.0</ele>
+        <time>2019-05-22T20:20:33.000Z</time>
+      </trkpt>
+      <trkpt lon="30.344066" lat="59.991636">
+        <ele>37.0</ele>
+        <time>2019-05-22T20:20:37.000Z</time>
+      </trkpt>
+      <trkpt lon="30.344248" lat="59.991690">
+        <ele>34.0</ele>
+        <time>2019-05-22T20:20:40.000Z</time>
+      </trkpt>
+      <trkpt lon="30.344398" lat="59.991736">
+        <ele>34.0</ele>
+        <time>2019-05-22T20:20:43.000Z</time>
+      </trkpt>
+      <trkpt lon="30.344639" lat="59.991760">
+        <ele>36.0</ele>
+        <time>2019-05-22T20:20:47.000Z</time>
+      </trkpt>
+      <trkpt lon="30.344811" lat="59.991773">
+        <ele>34.0</ele>
+        <time>2019-05-22T20:20:50.000Z</time>
+      </trkpt>
+      <trkpt lon="30.345004" lat="59.991800">
+        <ele>35.0</ele>
+        <time>2019-05-22T20:20:53.000Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,1 @@
+cmd_Release/obj.target/testserver.node := g++ -shared -pthread -rdynamic -m64  -Wl,-soname=testserver.node -o Release/obj.target/testserver.node -Wl,--start-group Release/obj.target/testserver/main.o Release/obj.target/testserver/pod.o Release/obj.target/testserver/napipod.o Release/obj.target/node_modules/node-addon-api/src/nothing.a -Wl,--end-group 
