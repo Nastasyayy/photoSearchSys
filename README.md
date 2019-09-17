@@ -1,7 +1,11 @@
 # photoSearchSys
-System for search of photos of participants of the field-and-track runs.                                      
-The system is a request processing server with the ability to access it using the well-known API. 
-It includes the following features: creating an event object, deleting it, receiving information about the event, 
-downloading files with photo metadata, deleting them, and directly searching. The search is an algorithm for 
-determining the likelihood of being on the verified photo of the run participant for which the search is being 
-performed. This algorithm is implemented in C ++ and is connected to the server as a module.
+Данный проект представляет собой микросервис, работа которого осуществляется путем обращения к нему по API.
+
+Сервер проекта реализован на JavaScript в программной среде Node.js с помощью Express и ряда других модулей (файл myserver.js, myserver.png - реализованные запросы). 
+
+Каждое фото указанного в запросе /search пробега проходит проверку на определение вероятности нахождения на данном фото участника пробега, для которого осуществляется поиск, используя модуль test. В качестве ответа на запрос получаем массив со значениями вероятности и расположениями файлов на внешней системе, где хранятся фотографии.
+
+Модуль test реализован на C++. Описание алгоритма определения вероятности представлено в презентации (папка algorithm - pod.h, pod.cpp). Данный модуль был интегрирован в сервер с помощью N-API - специального средства для создания собственных расширений для Node.js (папка algorithm - файлы napipod.h, napipod.cpp, main.cpp).
+
+track.gpx - пример файла трека, необходимого для запроса /search.
+
